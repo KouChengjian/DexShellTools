@@ -1,0 +1,3 @@
+//include ':app'/**/
+include ':ForceApkObj', ':DexShellTool'
+include ':ReforceApk'

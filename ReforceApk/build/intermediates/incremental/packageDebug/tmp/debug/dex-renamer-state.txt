@@ -1,0 +1,4 @@
+#Tue Jun 04 10:40:41 CST 2019
+base.0=C\:\\Users\\mayn\\Desktop\\AndroidJG\\MyApplication\\ReforceApk\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

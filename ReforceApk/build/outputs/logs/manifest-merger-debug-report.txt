@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\477ae298fba4a4746fc6613e7d8e9a77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\3000f49144e2d99a43f721d5ef5a7b74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\a56ec1182df802d96ebe25dd2817cc0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\67f10db65ac100ca546493fb5b5a2b2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\fc1974ad05e93b90bfc67307decda4ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\4edf950ef8b4ef0c40c7d03699ba7129\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\caa02ef22675399e088a9b4a8a9fff11\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\477ae298fba4a4746fc6613e7d8e9a77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\477ae298fba4a4746fc6613e7d8e9a77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\3000f49144e2d99a43f721d5ef5a7b74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\3000f49144e2d99a43f721d5ef5a7b74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\a56ec1182df802d96ebe25dd2817cc0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\a56ec1182df802d96ebe25dd2817cc0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\67f10db65ac100ca546493fb5b5a2b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\67f10db65ac100ca546493fb5b5a2b2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\fc1974ad05e93b90bfc67307decda4ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\fc1974ad05e93b90bfc67307decda4ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\4edf950ef8b4ef0c40c7d03699ba7129\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\4edf950ef8b4ef0c40c7d03699ba7129\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\caa02ef22675399e088a9b4a8a9fff11\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\caa02ef22675399e088a9b4a8a9fff11\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:11:5-31:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\caa02ef22675399e088a9b4a8a9fff11\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\caa02ef22675399e088a9b4a8a9fff11\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:12:9-35
+	android:name
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:15:9-63
+meta-data#APPLICATION_CLASS_NAME
+ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:17:9-113
+	android:value
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:17:58-111
+	android:name
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:17:20-57
+activity#com.example.forceapkobj.MainActivity
+ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:19:9-26:20
+	android:label
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:20:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.forceapkobj.SubActivity
+ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:28:9-29:75
+	android:name
+		ADDED from C:\Users\mayn\Desktop\AndroidJG\MyApplication\ReforceApk\src\main\AndroidManifest.xml:29:13-63
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\caa02ef22675399e088a9b4a8a9fff11\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\caa02ef22675399e088a9b4a8a9fff11\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mayn\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\caa02ef22675399e088a9b4a8a9fff11\AndroidManifest.xml:26:13-58
